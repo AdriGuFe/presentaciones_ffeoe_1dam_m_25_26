@@ -1,103 +1,111 @@
-# INFORMACIÓN PROVISIONAL
+# Formación Profesional Dual — 1.º DAM · Curso 2025-2026
+**CPIFP Alan Turing · Málaga — Parque Tecnológico de Andalucía**
 
-# Presentaciones duales de 1º DAM (mañana) del curso 2025 / 2026
+**Adrián Gutiérrez Fernández — Accenture**
 
-Listado con enlaces a los **repositorios** de entrega y normas para las exposiciones de alumnos duales de **1º DAM** (Desarrollo de Aplicaciones Multiplataforma) turno de mañana del **CPIFP Alan Turing** (Málaga - PTA) del curso 2025 - 2026.
+---
 
 ## Índice
+- [Vídeo de la exposición](#vídeo-de-la-exposición)
+- [Sobre la empresa](#sobre-la-empresa)
+- [Lo que he hecho durante las prácticas](#lo-que-he-hecho-durante-las-prácticas)
+- [Herramientas y tecnologías](#herramientas-y-tecnologías)
+- [Qué he aprendido en cada módulo](#qué-he-aprendido-en-cada-módulo)
+- [Valoración personal](#valoración-personal)
 
-* [Listado con enlaces a los repositorios](#sec-horario)
-  * [1DAM mañana](#1dam)
-    
-* [Duración del vídeo](#sec-tiempo)
-* [Contenido de la presentación](#sec-contenido)
-* [Formato y entrega](#sec-formato)
-* [Modalidad de la exposición](#sec-modalidad)
+---
 
-<a id="sec-horario"></a>
+## Vídeo de la exposición
+> El vídeo recoge tanto la presentación de Accenture como la exposición de mi trabajo individual durante las prácticas.
 
-## Listado con enlaces a los repositorios
+<!-- Sustituye el enlace de abajo por el tuyo real -->
+[![Portada — [TU NOMBRE] · Mis prácticas en Accenture](https://via.placeholder.com/800x200?text=Portada+del+vídeo)](URL_DEL_VIDEO)
 
-La tabla está **agrupada por empresa**: cada fila es una **empresa** (o centro de prácticas) y la columna **Participantes** recoge a todos los alumnos y alumnas asignados a ella. Debe publicarse el **enlace al repositorio de entrega** (por ejemplo en GitHub), donde el **profesorado** encontrará lo necesario para evaluar las estancias. Ese repositorio debe cumplir lo indicado en [formato y entrega](#sec-formato); los **vídeos** deben cumplir [contenido](#sec-contenido) y [duración](#sec-tiempo).
+**▶ [Ver vídeo — [TU NOMBRE]](URL_DEL_VIDEO)**
 
-Si en una empresa hay **varios participantes**, **comparten un solo repositorio** y **una sola URL** en la tabla. En el `README.md` (o en la estructura del repo) debe quedar **muy claro** qué corresponde a **cada persona**: enlace al **vídeo de la exposición de cada uno** y **descripción de la actividad de cada uno** en prácticas (tareas, temporalización, aportación individual, etc.), además de lo común a la empresa.
+**Estructura del vídeo:**
+- Introducción a la empresa: hasta 5 minutos
+- Exposición individual: hasta 5 minutos
 
-### 1DAM
+---
 
-La **fecha límite** para publicar en la tabla el enlace al repositorio la indicará tu **tutor de la formación dual** (o el departamento) en clase o por los canales habituales del curso.
+## Sobre la empresa
 
-Cuando el repositorio esté listo, **sustituye** en la **fila de tu empresa** la palabra *pendiente* por la **URL del repositorio** (idealmente la raíz del repo, para que se vea el `README.md` al abrir el enlace). Si varios participantes comparten empresa, **cualquiera de ellos** puede actualizar esa celda o coordinarse para que figure un único enlace válido.
+Accenture es una empresa global de servicios profesionales especializada en consultoría, tecnología, estrategia digital y operaciones. Con presencia en más de 120 países y más de 700.000 empleados, trabaja con clientes de prácticamente todos los sectores para ayudarles a transformar sus negocios mediante la tecnología.
+---
 
-| Logo | Empresa | Participantes | Enlace al repositorio |
-| :--: | :-- | :-- | :-- |
-| <img src="img/accenture.svg" height="18" alt="Accenture" /> | Accenture | Gutiérrez Fernández, Adrián | *pendiente* |
-| <img src="img/altaid.png" height="32" alt="Altaid Formación" /> | Altaid | Baena Urbaneja, Juan Manuel | *pendiente* |
-| <img src="img/diverxia.svg" height="18" alt="Diverxia" /> | Diverxia | Sánchez Muñoz, Adrián | *pendiente* |
-| <img src="img/fixme.png" height="22" alt="FixMe" /> | FixMe | Fernández Rodríguez, Juan Manuel | [FixMe](https://github.com/Ju4nmaFd3z/Presentacion-Dual-Fix-Me-2026-Juanma-Fdez.git) |
-| <img src="img/ld_quantum.png" height="28" alt="LD Quantum" /> | LD Quantum SL | Ruiz Martín, Samuel<br>Trujillo Rojas, Miguel | *pendiente* |
-| <img src="img/nttdata.svg" height="18" alt="NTT Data" /> | NTT Data | Gutiérrez Castro, Jazmín | *pendiente* |
-| <img src="img/oposiciones_caminos.png" height="22" alt="Oposiciones Camino" /> | Oposiciones Camino | Álvarez Armijo, Marco | [OposicionesCamino](https://github.com/Maliketh4bc/presentacion-ffeoe-oposiciones-caminos) |
-| <img src="img/rewe.svg" height="22" alt="REWE" /> | REWE | García Vela, Eliel Jesús<br>Pagola Del Pino, Víctor | [Rewe](https://github.com/ElielJesusGarciaVela/PresentacionREWE) |
-| <img src="img/sweetcode.svg" height="22" alt="SweetCode" /> | SweetCode | Luque Villanueva, Santiago<br>Portillo Guerrero, Curro<br>Rodríguez Espinosa, Sergio | [SweetCode](https://github.com/SergioRE2007/practicas-dam-sweetcode) |
+## Lo que he hecho durante las prácticas
 
-*Alumnos sin entrega de repositorio / exposición este curso:* Arias García, Daniel; Jiménez Martín, María de la Paz; Lorenzo Bonilla, Jesús; Parra Moussaif, Ismael; Rodríguez Galiano, Juan Rolando; Sánchez Fernández, Ana Isabel.
+Principalmente cursos de formacion de diferentes areas y tenologias:
 
-<a id="sec-tiempo"></a>
+- Programacion Java
+- Ciberseguridad
+- Ética
+- Data
+- GitHub
 
-## Duración del vídeo
+---
 
-Los límites de tiempo aplican al **vídeo** (o a la secuencia de vídeos enlazados, si se entrega en varias partes) de cada alumno o grupo en la misma empresa.
+## Cómo fue evolucionando el trabajo
 
-Los alumnos de la misma empresa deberán incluir en el vídeo una parte **común** sobre la empresa, de **5 minutos como máximo**. Si solo hay un alumno o alumna en la empresa, deberá incluir igualmente esa parte común. Después, cada uno incluirá una parte **individual** sobre su trabajo de **5 minutos como máximo**. Ahí termina la exposición grabada: **no** hay turno de preguntas ni cierre extra, porque la revisión la hace el profesorado **sin acto presencial**.
+### Primera semana:
 
-El material sobre la empresa (introducción, contexto) puede ser común para todos los alumnos que hayan realizado la formación dual en ella. Esa parte común y las partes individuales pueden estar en **un solo vídeo largo** o en **varios vídeos**; en cualquier caso, en el `README.md` del repositorio (compartido o no) debe poder localizarse **sin duda** el tramo o el enlace correspondiente a **cada alumno**.
+Cursos de ética y programación en Java, desde lo más básico hasta algo más avanzado
 
-Ejemplo de temporización para el grupo de Luque, Portillo y Rodríguez Espinosa (empresa SweetCode), con **repositorio compartido**:
+### Segunda semana
+Cursos sobre introducción a la ciberseguridad y conceptos sobre la misma en diferentes areas de una empresa o individuo
 
-* Hasta 5 minutos: parte común de SweetCode
-* Hasta 5 minutos: parte individual de Santiago Luque Villanueva
-* Hasta 5 minutos: parte individual de Curro Portillo Guerrero
-* Hasta 5 minutos: parte individual de Sergio Rodríguez Espinosa
+### Tercera semana
+Cursos sobre data, analisis de datos y bases de datos con consultas SQL
 
-<a id="sec-contenido"></a>
+### Cuarta semana
+Cursos de GitHub que se encuentran en la propia plataforma para asentar las bases del trabajo con repositorios remotos
 
-## Contenido de la presentación
+---
 
-El vídeo de la exposición debe incluir, como mínimo, el siguiente contenido:
+## Herramientas y tecnologías
 
-* Introducción a la empresa. Se debe hacer en común cuando en la misma empresa hay varios alumnos.
-* Tareas desempeñadas con temporalización por semanas.
-* Herramientas utilizadas.
-* Conocimientos adquiridos por cada módulo profesional.
-* Valoración de la experiencia dual por parte del alumno.
+<!-- Adapta esta tabla a las herramientas que usaste realmente -->
+| Categoría | Herramientas |
+|-----------|-------------|
+| Programacion | Eclipse |
+| SQL | SQL Server |
+| GitHub | GitHub y Visual Studio Code |
+| Formación | Página de la empresa y Workday |
 
-En el **`README.md` del repositorio** (especialmente si **varios alumnos comparten repo** por estar en la misma empresa) debe **informarse por escrito la actividad de cada alumno**: qué ha hecho cada uno, en qué periodos y con qué responsabilidades, de modo que el profesor pueda evaluar la estancia de **cada persona** sin ambigüedad. Los enlaces al vídeo de cada uno deben ir **rotulados con el nombre** del alumno o alumna.
+---
 
-<a id="sec-formato"></a>
+## Qué he aprendido en cada módulo
 
-## Formato y entrega
+### Programación
+Programacion en Java, desde lo más basico a conceptos un poco mas avanzados de programacion orientada a objetos
 
-En la tabla de este repositorio hay **una fila por empresa** y un solo campo de **enlace al repositorio de entrega** (público o accesible para el profesorado). Si la empresa tiene **varios participantes**, todos usan **ese mismo enlace** a un repositorio compartido.
+### Bases de Datos
+Conceptos sobre las bases de datos y consultas en SQL
 
-Ese repositorio debe contener, como mínimo:
+### Entornos de Desarrollo
+Trabajar usando Git y GitHub en repositorios compartidos
 
-* Un archivo **`README.md` en la raíz** con **toda la información** que el profesor necesite para **evaluar la estancia en prácticas** (contexto, empresa, tareas, temporalización, herramientas, módulos, valoración, etc., según lo pedido en [contenido](#sec-contenido)). Si el repo es **compartido**, el `README` debe organizarse de forma que se vea **por separado** la información y la **actividad en empresa de cada alumno**, además de lo común a la empresa.
-* En ese mismo `README.md`, **un enlace claro al vídeo de la exposición de cada alumno** (o a listas de reproducción si el vídeo va en varias partes), **identificado con el nombre** de la persona. El vídeo puede alojarse fuera del repo (**YouTube** no listado, **Vimeo**, plataforma del centro, etc.), pero **debe enlazarse desde el `README.md`** del repositorio de entrega.
-* **Cualquier otro material** que quiera mostrar el alumno (diapositivas, PDF, imágenes, código de ejemplo, etc.) debe **estar en ese mismo repositorio** (archivos o carpetas dentro del proyecto). El profesorado revisará a partir del repositorio enlazado, no de copias locales que no estén subidas.
+### Lenguajes de Marcas y Sistemas de Gestión de Información
+Poco, un poco de introducción al frontend y las tecnológias que se usan hoy día 
 
-El vídeo debe respetar la [duración](#sec-tiempo) indicada (parte común de empresa y partes individuales). Se puede utilizar la herramienta que prefieras para grabarlo y editarlo.
+### Sistemas Informáticos
+Cursos sobre ciberseguridad y buenas prácticas
 
-<a id="sec-modalidad"></a>
+### Digitalización aplicada al sistema productivo
+He adquirido conocimiento sobre como funciona una empresa tan digitalizada como Accenture
 
-## Modalidad de la exposición
+### Sostenibilidad aplicada al sistema productivo
+Cursos donde se habla de la importancia de la sostenibilidad dentro del sector empresarial
 
-El enlace al **repositorio de entrega** se publica en la **fila de la empresa** en esta tabla (repositorio único por empresa, compartido si hay varios participantes); **no** hay asistencia presencial al centro para presentar ni **turno de preguntas** en directo.
+### IPE
+Buenas prácticas a la hora de tratar con clientes y sobre el comportamiento individual dentro de la empresa, como la apariencia y la imagen que debemos transmitir en un entorno profesional
 
-El **profesorado** revisará el material **de forma no presencial** (repositorio, `README.md`, vídeos enlazados por alumno y anexos en el repo), en su tiempo y según los criterios y el calendario del departamento.
+---
 
-<hr>
+## Valoración personal
+Las prácticas en cuanto a conocimientos del mundo laboral han estado muy bien, he podido ver un poco como trabaja una empresa tan grande por dentro y sobre los diferentes departamentos de esta. En cuanto a conocimientos técnicos, al ser las practicas de primer año, los he notado un poco mas escasos o básicos. Sé que segundo año de prácticas en Accenture te implicas más en la empresa y te asignan un proyecto con otros trabajadores para poder ya tener una experiencia real de como es trabajar en la empresa. Como primer año de introducción está bien, pero me quedo con ganas de poder hacer las de segundo año, que creo por lo que he aprendido que estarán incluso mejores
 
-Si te ha resultado útil este repositorio, por favor marca el repositorio con una estrella en GitHub. ¡Gracias!
+---
 
-
-
+*Repositorio de entrega — Formación Profesional Dual 1.º DAM (mañana) · CPIFP Alan Turing · 2025-2026*
