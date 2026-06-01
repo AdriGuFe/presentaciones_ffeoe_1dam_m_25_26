@@ -18,10 +18,9 @@
 ## Vídeo de la exposición
 > El vídeo recoge tanto la presentación de Accenture como la exposición de mi trabajo individual durante las prácticas.
 
-<!-- Sustituye el enlace de abajo por el tuyo real -->
-[![Portada — [TU NOMBRE] · Mis prácticas en Accenture](https://via.placeholder.com/800x200?text=Portada+del+vídeo)](URL_DEL_VIDEO)
+ · Mis prácticas en Accenture]([https://via.placeholder.com/800x200?text=Portada+del+vídeo](https://www.youtube.com/watch?v=R1znXDlZO8A))](URL_DEL_VIDEO)
 
-**▶ [Ver vídeo — [TU NOMBRE]](URL_DEL_VIDEO)**
+**▶ [Ver vídeo — [Mis practicas en Accenture]](https://www.youtube.com/watch?v=R1znXDlZO8A)**
 
 **Estructura del vídeo:**
 - Introducción a la empresa: hasta 5 minutos
