@@ -9,6 +9,7 @@
 - [Vídeo de la exposición](#vídeo-de-la-exposición)
 - [Sobre la empresa](#sobre-la-empresa)
 - [Lo que he hecho durante las prácticas](#lo-que-he-hecho-durante-las-prácticas)
+- [Cómo fue evolucionando el trabajo](#cómo-fue-evolucionando-el-trabajo)
 - [Herramientas y tecnologías](#herramientas-y-tecnologías)
 - [Qué he aprendido en cada módulo](#qué-he-aprendido-en-cada-módulo)
 - [Valoración personal](#valoración-personal)
