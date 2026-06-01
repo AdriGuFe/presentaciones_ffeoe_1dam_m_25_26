@@ -24,8 +24,8 @@ Accenture es una empresa global de servicios profesionales especializada en cons
 ---
 
 ## Lo que he hecho durante las prácticas
-
-Principalmente cursos de formacion de diferentes areas y tenologias:
+Mi horario era de lunes a viernes de 8:00 a 14:00, siendo presencial los lunes, cuando nos daban charlas en la empresa, y en remoto los demás dias.
+Principalmente he hecho cursos de formacion de diferentes areas y tenologias:
 
 - Programacion Java
 - Ciberseguridad
